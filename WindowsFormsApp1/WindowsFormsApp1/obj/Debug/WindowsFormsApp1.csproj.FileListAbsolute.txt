@@ -1,0 +1,13 @@
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu1.resources
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\Abdulkadir\Desktop\Sifreleme\Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hakkında.resources
